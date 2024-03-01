@@ -30,3 +30,22 @@ D:\UdeA\Semestre 5\Programación 2\Servicio_actas_farmaceuticas\Servicio_actas_f
 D:\UdeA\Semestre 5\Programación 2\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.exe.config
 D:\UdeA\Semestre 5\Programación 2\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.exe
 D:\UdeA\Semestre 5\Programación 2\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.pdb
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.exe.config
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.exe
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\bin\Debug\Servicio_actas_farmaceuticas.pdb
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.csproj.AssemblyReference.cache
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Ingreso_actas.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Ingreso_plataforma.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Menu_opciones.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Properties.Resources.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Registro_laboratorio.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Registro_producto.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.Registro_proveedor.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.csproj.GenerateResource.cache
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.csproj.CoreCompileInputs.cache
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.exe
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.pdb
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.View.Registro_Medicamento.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.View.Registro_Cliente.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.View.Registro_Compra.resources
+C:\Users\devsimon\Desktop\FARCA\FARCA\Servicio_actas_farmaceuticas\obj\Debug\Servicio_actas_farmaceuticas.View.PQRS.resources
